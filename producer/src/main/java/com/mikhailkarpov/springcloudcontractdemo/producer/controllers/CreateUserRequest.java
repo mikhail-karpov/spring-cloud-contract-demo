@@ -1,4 +1,4 @@
-package com.mikhailkarpov.springcloudcontractdemo.producer.api;
+package com.mikhailkarpov.springcloudcontractdemo.producer.controllers;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

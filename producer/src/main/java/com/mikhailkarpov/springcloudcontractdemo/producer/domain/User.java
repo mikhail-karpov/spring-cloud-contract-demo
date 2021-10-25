@@ -1,4 +1,4 @@
-package com.mikhailkarpov.springcloudcontractdemo.producer.api;
+package com.mikhailkarpov.springcloudcontractdemo.producer.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

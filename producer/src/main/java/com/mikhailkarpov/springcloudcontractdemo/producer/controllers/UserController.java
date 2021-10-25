@@ -1,5 +1,7 @@
-package com.mikhailkarpov.springcloudcontractdemo.producer.api;
+package com.mikhailkarpov.springcloudcontractdemo.producer.controllers;
 
+import com.mikhailkarpov.springcloudcontractdemo.producer.domain.User;
+import com.mikhailkarpov.springcloudcontractdemo.producer.services.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,6 @@
-package com.mikhailkarpov.springcloudcontractdemo.producer.api;
+package com.mikhailkarpov.springcloudcontractdemo.producer.services;
+
+import com.mikhailkarpov.springcloudcontractdemo.producer.domain.User;
 
 import java.util.List;
 import java.util.Optional;
