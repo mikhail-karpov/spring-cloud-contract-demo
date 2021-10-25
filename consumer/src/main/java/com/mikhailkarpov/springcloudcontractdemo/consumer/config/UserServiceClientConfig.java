@@ -1,5 +1,6 @@
-package com.mikhailkarpov.springcloudcontractdemo.consumer.api;
+package com.mikhailkarpov.springcloudcontractdemo.consumer.config;
 
+import com.mikhailkarpov.springcloudcontractdemo.consumer.api.UserServiceClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.web.client.RestTemplateBuilder;
